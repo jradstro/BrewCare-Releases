@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>BrewCare</title>
+        <item>
+            <title>1.2</title>
+            <pubDate>Mon, 17 Aug 2026 18:01:57 +0200</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/jradstro/BrewCare-Releases/releases/download/v1.2/BrewCare-1.2-3.zip" length="3966611" type="application/octet-stream" sparkle:edSignature="h1Ks2xfilHWiOp/meBYPr89w+HrEiO/UhZRlWm3TsGVAnP9G+ofUYe1c/ptBI/6sVMXKjUTUm4c0cufEpI2BCA=="/>
+        </item>
+    </channel>
+</rss>
