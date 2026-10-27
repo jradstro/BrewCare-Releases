@@ -3,13 +3,13 @@
     <channel>
         <title>BrewCare</title>
         <item>
-            <title>1.0.3</title>
-            <pubDate>Tue, 27 Oct 2026 20:09:00 +0100</pubDate>
-            <sparkle:version>11</sparkle:version>
-            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <title>1.0.4</title>
+            <pubDate>Tue, 27 Oct 2026 20:13:18 +0100</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/jradstro/BrewCare-Releases/releases/download/v1.0.3/BrewCare-1.0.3-11.zip" length="3426233" type="application/octet-stream" sparkle:edSignature="6EUtF+Ut9Sg/zqXeP6wMfXz2sc4phBJVZqmLWOgSGyiQatx0Qyjd/g9qpCiftdcDBJW5df5Zi/q3Hz7gNSMDBg=="/>
+            <enclosure url="https://github.com/jradstro/BrewCare-Releases/releases/download/v1.0.4/BrewCare-1.0.4-12.zip" length="3416374" type="application/octet-stream" sparkle:edSignature="T7KJnHkC0nB46O8RzhUl/eT5HPEuHoCobkVGyHNgogByU/Ytn40x4RqgUrVDh3hJ8wJ43r9+Bl2fTqUoHdf1DQ=="/>
         </item>
         <item>
             <title>1.0.2</title>
