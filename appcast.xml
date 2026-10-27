@@ -3,6 +3,15 @@
     <channel>
         <title>BrewCare</title>
         <item>
+            <title>1.0.3</title>
+            <pubDate>Tue, 27 Oct 2026 20:09:00 +0100</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/jradstro/BrewCare-Releases/releases/download/v1.0.3/BrewCare-1.0.3-11.zip" length="3426233" type="application/octet-stream" sparkle:edSignature="6EUtF+Ut9Sg/zqXeP6wMfXz2sc4phBJVZqmLWOgSGyiQatx0Qyjd/g9qpCiftdcDBJW5df5Zi/q3Hz7gNSMDBg=="/>
+        </item>
+        <item>
             <title>1.0.2</title>
             <pubDate>Fri, 28 Aug 2026 22:33:33 +0200</pubDate>
             <sparkle:version>10</sparkle:version>
@@ -19,15 +28,6 @@
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/jradstro/BrewCare-Releases/releases/download/v1.0.1/BrewCare-1.0.1-9.zip" length="3473772" type="application/octet-stream" sparkle:edSignature="R+fsf2SUjvOc6bCXidqRRlcHtoptRLIQRdC8tXG3cDgbGKKHVcvPgixIIQSwMl4N9CrvFCU0G2xBNnq6rSzfDQ=="/>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Thu, 27 Aug 2026 19:39:50 +0200</pubDate>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/jradstro/BrewCare-Releases/releases/download/v1.0/BrewCare-1.0-8.zip" length="3468569" type="application/octet-stream" sparkle:edSignature="NFMg69C7FhOysV0mv+DO3H7Z9flAFNo2SkcdqdMxxWOPnzlpZwKrUrVBr3LRUl3/Dg+ZjJuKCfJHUx/xDPOzAw=="/>
         </item>
     </channel>
 </rss>
