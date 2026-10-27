@@ -3,6 +3,15 @@
     <channel>
         <title>BrewCare</title>
         <item>
+            <title>1.0.7</title>
+            <pubDate>Tue, 27 Oct 2026 20:30:05 +0100</pubDate>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/jradstro/BrewCare-Releases/releases/download/v1.0.7/BrewCare-1.0.7-15.zip" length="3445262" type="application/octet-stream" sparkle:edSignature="j1ZQl640XlHdXRwoHw9voijPzwL0HzrfU6Cvk46EylSTqyTwCmYbZR7VjjSvO0Tza5HT62DP472NdjyIZBUTDw=="/>
+        </item>
+        <item>
             <title>1.0.6</title>
             <pubDate>Tue, 27 Oct 2026 20:23:19 +0100</pubDate>
             <sparkle:version>14</sparkle:version>
@@ -19,15 +28,6 @@
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/jradstro/BrewCare-Releases/releases/download/v1.0.4/BrewCare-1.0.4-12.zip" length="3416374" type="application/octet-stream" sparkle:edSignature="T7KJnHkC0nB46O8RzhUl/eT5HPEuHoCobkVGyHNgogByU/Ytn40x4RqgUrVDh3hJ8wJ43r9+Bl2fTqUoHdf1DQ=="/>
-        </item>
-        <item>
-            <title>1.0.2</title>
-            <pubDate>Fri, 28 Aug 2026 22:33:33 +0200</pubDate>
-            <sparkle:version>10</sparkle:version>
-            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/jradstro/BrewCare-Releases/releases/download/v1.0.2/BrewCare-1.0.2-10.zip" length="3474757" type="application/octet-stream" sparkle:edSignature="zJdBff56KNad/WjHk4TRaXBXeskdCKGahEPIU+72fBGgEOL/jHkK8EcgxfRhZa0wVOyoD8HvCd6G1VeIA/VRDw=="/>
         </item>
     </channel>
 </rss>
